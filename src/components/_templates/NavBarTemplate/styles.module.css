@@ -1,0 +1,4 @@
+/* not supported by chakra-ui */
+.NavBarContainer {
+  backdrop-filter: blur(5px);
+}

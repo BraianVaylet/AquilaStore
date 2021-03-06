@@ -1,0 +1,18 @@
+/* eslint-disable no-undef */
+import React from "react"
+import { render, screen } from "@testing-library/react"
+import BannerLink from "."
+import { MemoryRouter } from "react-router-dom"
+
+describe("When evertithings is OK", () => {
+  beforeEach(() => {
+    render(
+      <MemoryRouter>
+        <BannerLink img="url" />
+      </MemoryRouter>
+    )
+  })
+  test("should render the BannerLink without crashing", () => {
+    screen.debug()
+  })
+})

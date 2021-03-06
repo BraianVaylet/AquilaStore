@@ -1,0 +1,17 @@
+/* eslint-disable no-undef */
+import React from "react"
+import { render, screen } from "@testing-library/react"
+import ButtonModalFullImage from "."
+
+describe("When evertithings is OK", () => {
+  beforeEach(() => {
+    render(
+      <ButtonModalFullImage title="text">
+        <div />
+      </ButtonModalFullImage>
+    )
+  })
+  test("should render the ButtonModalFullImage without crashing", () => {
+    screen.debug()
+  })
+})

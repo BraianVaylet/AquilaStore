@@ -1,0 +1,314 @@
+{
+	"AdminTemplate": {
+		"dashboard": "Panel de administración",
+		"newProduct": "Nuevo Producto",
+		"noItems": "No hay productos que mostrar",
+		"deleteSuccess": "Producto eliminado",
+		"deleteMessageSuccess": "Mensaje eliminado",
+		"deleteError": "Error al tratar de eliminar el producto",
+		"isActiveSuccess": "isActive cambia a",
+		"isActiveError": "Error al cambia isActive",
+		"activeTrue": "Pasa el producto a estado activo",
+		"activeFalse": "Pasa el producto a estado inactivo",
+		"delete": "Elimina el producto de la Base de Datos",
+		"edit": "Editar el producto",
+		"slideAlert": "👉 Este panel es solo para uso del administrador, desde él puede administrar los productos de la tienda. Para propósitos de prueba, su acceso está abierto.",
+		"purchasesMade": "Compras realizadas",
+		"products": "Productos",
+		"jackets": "Camperas",
+		"shirts": "Remeras",
+		"shoes": "Zapatillas",
+		"accesories": "Accesorios",
+		"actives": "Productos activos",
+		"inactives": "Productos inactivos",
+		"noStock": "Sin stock",
+		"purchases": "Compras",
+		"messages": "Mensajes"
+	},
+	"App": {
+		"helloWorld": "Hola Mundo!"
+	},
+	"Authentication": {
+		"welcome": "Bienvenido",
+		"errorLogin": "No pudimos autenticar su cuenta 😞"
+	},
+	"BannerLinks": {
+		"jackets": "Camperas",
+		"shirts": "Remeras",
+		"shoes": "Zapatillas",
+		"accesories": "Accesorios"
+	},
+	"BtnModalImg": {
+		"zoomIn": "Ampliar"
+	},
+	"Cart": {
+		"cart": "Carrito",
+		"saves": "Guardados"
+	},
+	"CartItemList": {
+		"keepBuying": "Seguir comprando",
+		"continueShopping": "Continuar compra"
+	},
+	"CartTemplate": {
+		"title": "🛒 Mi Carrito"
+	},
+	"CartWidgetBtn": {
+		"clean": "Limpiar carrito",
+		"goToCart": "Ir al carrito",
+		"deleteItem": "Quitar del carrito"
+	},
+	"ChangeLanguageBtn": {
+		"es": "ES",
+		"en": "EN"
+	},
+	"Checkout": {
+		"helpStage1": "Complete/verifique el formulario",
+		"helpStage2": "Confirma el formulario, se habilitará el botón de pago",
+		"helpStage3": "Haga click en pagar para realizar el pago.",
+		"hello": "Hola"
+	},
+	"CheckoutTemplate": {
+		"title": "✔ Checkout"
+	},
+	"FavouriteIconBtn": {
+		"deleteFromFavourites": "Eliminar de favoritos 💔",
+		"addToFavourites": "Agregar a favoritos 😍"
+	},
+	"FavouritesBtn": {
+		"clean": "Limpiar favoritos",
+		"title": "Favoritos",
+		"all": "Todos"
+	},
+	"FavouritesTemplate": {
+		"title": "💕 Mis favoritos",
+		"noItems": "😕 Aún no tienes ningún producto guardado en favoritos"
+	},
+	"Footer": {
+		"workWithUs": "Trabaja con nosotros 💪",
+		"termsAndConditions": "Terminos y condiciones",
+		"help": "Ayuda",
+		"covidPrecautions": "Precauciones en tiempos de COVID"
+	},
+	"HelmetSEO": {
+		"title": {
+			"home": "Aquila 🦅 | página principal",
+			"products": "Aquila 🦅 | productos | ",
+			"itemDetail": "Aquila 🦅 | producto | ",
+			"notFound": "Aquila 🦅 | 404",
+			"notifications": "Aquila 🦅 | notificaciones",
+			"favourites": "Aquila 🦅 | favoritos",
+			"checkout": "Aquila 🦅 | checkout",
+			"cart": "Aquila 🦅 | carrito",
+			"help": "Aquila 🦅 | ayuda",
+			"termsAndConditions": "Aquila 🦅 | términos y condiciones",
+			"purchases": "Aquila 🦅 | compras"
+		},
+		"description": {
+			"home": "Página principal del store para la venta de indumentaria",
+			"products": "Listado de productos del store bajo la categoría: ",
+			"itemDetail": "Producto seleccionado del store: ",
+			"notFound": "Página no econtrada",
+			"notifications": "Historial de Notifications",
+			"favourites": "Historial de favoritos",
+			"checkout": "Checkout de productos",
+			"cart": "Carrito de compras",
+			"help": "Sección de ayuda",
+			"termsAndConditions": "Términos y condiciones",
+			"purchases": "Compras"
+		}
+	},
+	"HelpBtn": {
+		"help": "Ayuda",
+		"forMoreHelp": "Para más ayuda haga click",
+		"here": "aquí"
+	},
+	"HelpForm": {
+		"comment": "Déjanos tu comentario"
+	},
+	"InputEmail": {
+		"title": "Correo electrónico",
+		"error": "Ingrese una casilla de correo real"
+	},
+	"InputPassword": {
+		"title": "Contraseña",
+		"error": "Ingrese una contraseña",
+		"veryWeak": "Muy débil",
+		"weak": "Débil",
+		"normal": "Normal",
+		"good": "Buena",
+		"veryGood": "Muy buena",
+		"useHelp": "Use aA-zZ, 0-9 y caracteres"
+	},
+	"ItemComplete": {
+		"brandModel": "Marca y modelo",
+		"sizes": "Talle",
+		"colors": "Colores",
+		"gender": "Género",
+		"deleteItem": "Eliminar producto",
+		"active": "activo",
+		"inactive": "inactivo",
+		"noStock": "sin stock"
+	},
+	"ItemCount": {
+		"noStock": "No hay stock",
+		"available": "Disponible",
+		"addToCart": "Agregar al carrito",
+		"addedToCart": "Se agrego al carrito 👍",
+		"buyNow": "Comprar ahora",
+		"canNotBuy": "Las compras estan desactivadas 💔",
+		"canNotBuyDescription": "No es posible comprar este artículo en este momento.",
+		"canNotAdd": "Las compras estan desactivadas 💔",
+		"canNotAddDescription": "No es posible agregar este artículo a su carrito en este momento."
+	},
+	"ItemDetailCharacteristics": {
+		"title": "Caracteristicas",
+		"brand": "Marca",
+		"model": "Modelo",
+		"withLoveTo": "Con 💖 para ",
+		"availableColours": "Colores disponibles",
+		"availableSizes": "Talles disponibles"
+	},
+	"ItemDetailDescription": {
+		"title": "Descripción"
+	},
+	"ItemDetailQuestionsAndAnswers": {
+		"title": "Preguntas y respuestas"
+	},
+	"ItemList": {
+		"productsList": "Listado de productos 🔥🔥🔥"
+	},
+	"ItemNotification": {
+		"bought": "Compraste",
+		"products": "productos",
+		"order": "#Orden"
+	},
+	"ItemProduct": {
+		"deleteItem": "Quitar producto",
+		"delete": "Eliminar",
+		"save": "Guardar",
+		"saveText": "Guardar para despues",
+		"similarProducts": "Ver productos similares",
+		"seeMore": "Ver más"
+	},
+	"ItemProductList": {
+		"noProductsYet": "No hay productos todavía 😔"
+	},
+	"LoginBtn": {
+		"login": "Iniciar sesión",
+		"login2": "🚀 ACCEDER"
+	},
+	"Logout": {
+		"logout": "Cerrar sesión",
+		"doYouWantToLogout": "¿Quiere cerrar su sesión?",
+		"close": "Cerrar",
+		"ok": "Ok",
+		"youCanNot": "No puedes salir 😈"
+	},
+	"MessageComplete": {
+		"messageFrom": "Mensaje de",
+		"replyEmail": "Responder email",
+		"work": "Trabajo",
+		"help": "Ayuda"
+	},
+	"NavBarTemplate": {
+		"constructionTools": "Herramientas de construcción",
+		"sports": "Deportes",
+		"entertainment": "Entretenimiento",
+		"estate": "Inmuebles",
+		"mobility": "Movilidad",
+		"logout": "Salir",
+		"jackets": "Camperas",
+		"shirts": "Remeras",
+		"shoes": "Zapatillas",
+		"accesories": "Accesorios",
+		"categories": "Categorías"
+	},
+	"NewProductForm": {
+		"success": "Se agrego el producto con éxito",
+		"error": "Error al crear el producto",
+		"title": "Título",
+		"description": "Descripción",
+		"pictureUrl": "URL del la imágen",
+		"price": "Precio",
+		"stock": "Stock",
+		"brand": "Marca",
+		"model": "Modelo",
+		"category": "Categoría",
+		"gender": "Género",
+		"sizes": "Talles",
+		"colors": "Colores",
+		"infoExampleSizes": "Ingresar separando por comas, sin espacios. Ej: S,M,L,XL",
+		"infoExampleColors": "Ingresar separando por comas, para dos colores separar con guión medio. Sin espacios. Ej: black,red,blue,green",
+		"confirm": "Confirmar"
+	},
+	"NotFound": {
+		"title": "Página no encontrada"
+	},
+	"NotificationList": {
+		"noItems": "😶 No tenemos notificaciones para mostrarte"
+	},
+	"NotificationsBtn": {
+		"title": "Notificaciones",
+		"seeMoreTooltip": "Ver más notificaciones",
+		"all": "Todas",
+		"markAsViewed": "Marcar como vistas"
+	},
+	"NotificationsTemplate": {
+		"title": "📬 Historial de notificaciones"
+	},
+	"PaymentForm": {
+		"enterEmail": "Correo",
+		"enterPassword": "Contraseña",
+		"enterName": "Nombre Completo",
+		"enterDni": "DNI",
+		"enterPhone": "Teléfono",
+		"enterStreetName": "Nombre de la calle",
+		"enterStreetNumber": "Número de la vivienda",
+		"enterDepto": "Piso y departamento",
+		"completeForm": "Complete el formulario",
+		"confirm": "Confirmar",
+		"edit": "Editar formulario"
+	},
+	"PaymentMenu": {
+		"resumen": "Resumen de compra",
+		"products": "Productos",
+		"shipping": "Envío",
+		"free": "Gratis",
+		"pay": "Pagar",
+		"confirmForm": "Confirme el formulario para habilitar el pago",
+		"success": "Compra exitosa",
+		"error": "Ups! hay un error al realizar tu compra",
+		"cuestion": "Qué es lo que quieres hacer?",
+		"goToPurchases": "Ir a mis compras",
+		"goToHome": "Continuar comprando",
+		"tryAgain": "Volver a intentar"
+	},
+	"PresentationLinks": {
+		"favourites": "Favoritos",
+		"notifications": "Notificaciones",
+		"cart": "Carrito",
+		"purchases": "Compras"
+	},
+	"PurchaseComplete": {
+		"bought": "Compra",
+		"products": "productos"
+	},
+	"PurchasesList": {
+		"noItems": "😑 Aún no has realizado ninguna compra..."
+	},
+	"PurchasesTemplate": {
+		"title": "🛍 Compras",
+		"purchasesMade": "Compras realizadas",
+		"productsPurchased": "Productos comprados"
+	},
+	"SubHeader": {
+		"back": "👈 Volver"
+	},
+	"WorkWithUs": {
+		"sendOk": "Mensaje enviado con éxito",
+		"canNotSend": "Se produjo un error al intentar enviar el mensaje. Vuelve a intentarlo.",
+		"name": "Nombre",
+		"phone": "Teléfono",
+		"send": "Enviar"
+	}
+}

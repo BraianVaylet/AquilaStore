@@ -1,0 +1,83 @@
+{
+  "homepage": "https://BraianVaylet.github.io/coderhouse-react11360-bdv",
+  "name": "coderhouse-react-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "doc": "jsdoc -c jsdoc.json",
+    "prettier": "prettier --write .",
+    "eslint": "eslint --fix .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.3",
+    "@chakra-ui/react": "^1.1.5",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "firebase": "^8.2.9",
+    "firebase-admin": "^9.5.0",
+    "framer-motion": "^3.2.1",
+    "i18next": "^19.8.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-i18next": "^11.8.5",
+    "react-icons": "^4.1.0",
+    "react-responsive-carousel": "^3.2.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.0",
+    "better-docs": "^2.3.2",
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.22.0",
+    "gh-pages": "^3.1.0",
+    "husky": "^4.3.8",
+    "jsdoc": "^3.6.6",
+    "lint-staged": "^10.5.3",
+    "prettier": "^2.2.1",
+    "prop-types": "^15.7.2",
+    "react-test-render": "^1.1.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix",
+    "*.{js,css,md}": "prettier --write"
+  }
+}
