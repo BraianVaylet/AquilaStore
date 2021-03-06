@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/AquilaStore/static/css/main.9c097eef.chunk.css",
+    "main.js": "/AquilaStore/static/js/main.6c960a36.chunk.js",
+    "main.js.map": "/AquilaStore/static/js/main.6c960a36.chunk.js.map",
+    "runtime-main.js": "/AquilaStore/static/js/runtime-main.33a705b7.js",
+    "runtime-main.js.map": "/AquilaStore/static/js/runtime-main.33a705b7.js.map",
+    "static/css/2.53e6dcdf.chunk.css": "/AquilaStore/static/css/2.53e6dcdf.chunk.css",
+    "static/js/2.74002f24.chunk.js": "/AquilaStore/static/js/2.74002f24.chunk.js",
+    "static/js/2.74002f24.chunk.js.map": "/AquilaStore/static/js/2.74002f24.chunk.js.map",
+    "static/js/3.218c3617.chunk.js": "/AquilaStore/static/js/3.218c3617.chunk.js",
+    "static/js/3.218c3617.chunk.js.map": "/AquilaStore/static/js/3.218c3617.chunk.js.map",
+    "index.html": "/AquilaStore/index.html",
+    "static/css/2.53e6dcdf.chunk.css.map": "/AquilaStore/static/css/2.53e6dcdf.chunk.css.map",
+    "static/css/main.9c097eef.chunk.css.map": "/AquilaStore/static/css/main.9c097eef.chunk.css.map",
+    "static/js/2.74002f24.chunk.js.LICENSE.txt": "/AquilaStore/static/js/2.74002f24.chunk.js.LICENSE.txt",
+    "static/media/aquila.935b8575.png": "/AquilaStore/static/media/aquila.935b8575.png",
+    "static/media/jacket.c39b2399.png": "/AquilaStore/static/media/jacket.c39b2399.png",
+    "static/media/shirt.c79f1847.png": "/AquilaStore/static/media/shirt.c79f1847.png",
+    "static/media/shoes.35702c3d.png": "/AquilaStore/static/media/shoes.35702c3d.png",
+    "static/media/slider1.31feb0db.png": "/AquilaStore/static/media/slider1.31feb0db.png",
+    "static/media/slider2.2b58ec91.png": "/AquilaStore/static/media/slider2.2b58ec91.png",
+    "static/media/slider3.ff8b6246.png": "/AquilaStore/static/media/slider3.ff8b6246.png",
+    "static/media/slider4.738fa22c.png": "/AquilaStore/static/media/slider4.738fa22c.png",
+    "static/media/slider5.c10f78c6.png": "/AquilaStore/static/media/slider5.c10f78c6.png",
+    "static/media/watch.26dc7d65.png": "/AquilaStore/static/media/watch.26dc7d65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a705b7.js",
+    "static/css/2.53e6dcdf.chunk.css",
+    "static/js/2.74002f24.chunk.js",
+    "static/css/main.9c097eef.chunk.css",
+    "static/js/main.6c960a36.chunk.js"
+  ]
+}
