@@ -1,8 +1,8 @@
 # 🦅 AQUILA STORE
 
-## _Proyecto ECOMMERCE en ReactJs_ 💙
+## _ECOMMERCE Project in ReactJs_ 💙
 
-Este proyecto fue desarrollado para el curso de ReactJs de la plataforma CoderHouse [![coderhouse](https://emprelatam.com/wp-content/uploads/2019/10/logos-coderhouse-01.png)](https://www.coderhouse.com/)
+This project was developed for the ReactJs course on the CoderHouse platform [![coderhouse](https://emprelatam.com/wp-content/uploads/2019/10/logos-coderhouse-01.png)](https://www.coderhouse.com/)
 
 ### Demo: [AquilaStore](https://braianvaylet.github.io/coderhouse-react11360-bdv/)
 
@@ -13,38 +13,38 @@ Este proyecto fue desarrollado para el curso de ReactJs de la plataforma CoderHo
 ### Author
 
 > Braian D. Vaylet
-> Contacto: braianvaylet@gmail.com > [linkedin](https://www.linkedin.com/in/braianvaylet/)
+> Contact: braianvaylet@gmail.com > [linkedin](https://www.linkedin.com/in/braianvaylet/)
 
 ### Info
 
 > Camada: 11360
-> Profesor: Cristian Hourcade (Toto)
+> Teacher: Cristian Hourcade (Toto)
 > Tutor: Ramiro D' Accorso
 
-### Librerias principales utilizadas en el proyecto
+### Main libraries used in the project
 
-| libreria                                                         | uso                                      |
-| ---------------------------------------------------------------- | ---------------------------------------- |
-| [ReactJs](https://es.reactjs.org/)                               | framework principal                      |
-| [Create React App](https://github.com/facebook/create-react-app) | creación del proyecto                    |
-| [PropTypes](https://www.npmjs.com/package/prop-types)            | validación de tipado                     |
-| [Chakra-UI](https://chakra-ui.com/)                              | libreria UI para componentes             |
-| [React Helmet](https://www.npmjs.com/package/react-helmet)       | control del SEO de la aplicación         |
-| [Firebase](https://firebase.google.com/?hl=es)                   | autentificación y base de datos          |
-| [i18next](https://react.i18next.com/)                            | traducciones                             |
-| [React Router](https://reactrouter.com/)                         | libreria para el control de las rutas    |
-| [jsDocs](https://jsdoc.app/)                                     | libreria para autodocumentar el proyecto |
+| library                                                          | used                      |
+| ---------------------------------------------------------------- | ------------------------- |
+| [ReactJs](https://es.reactjs.org/)                               | JavaScript framework      |
+| [Create React App](https://github.com/facebook/create-react-app) | Create React Project      |
+| [PropTypes](https://www.npmjs.com/package/prop-types)            | Validation                |
+| [Chakra-UI](https://chakra-ui.com/)                              | UI framework              |
+| [React Helmet](https://www.npmjs.com/package/react-helmet)       | SEO control               |
+| [Firebase](https://firebase.google.com/?hl=es)                   | Authentication & DataBase |
+| [i18next](https://react.i18next.com/)                            | Translations              |
+| [React Router](https://reactrouter.com/)                         | Router                    |
+| [jsDocs](https://jsdoc.app/)                                     | documentation             |
 
-### Se utiliza _[Atomic Design](https://atomicdesign.bradfrost.com/)_ como patron de diseño para la arquitectura del proyecto
+### _[Atomic Design](https://atomicdesign.bradfrost.com/)_ is used as a design pattern for the project architecture
 
-### Pendientes principales
+### Pending tasks
 
-- Agregar pasarela de pagos
-- Responsive
-- Control de estado de pedidos (init, enProgreso, enViaje, recibido)
-- mover notificaciones y favoritos a firebase
-- registro de usuarios en firebase
-- Restringir acceso al panel de administración (solo usuario admin)
+- Add payment gateway (mercadopago, paypalo stripe)
+- Responsive (mobile and web)
+- Order status control (init, in progress, in trip, received)
+- move notifications and favorites to firebase
+- user registration in firebase
+- Restrict access to the administration panel (only admin user)
 
 ---
 
