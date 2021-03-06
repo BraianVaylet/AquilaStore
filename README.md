@@ -4,7 +4,7 @@
 
 This project was developed for the ReactJs course on the CoderHouse platform [![coderhouse](https://emprelatam.com/wp-content/uploads/2019/10/logos-coderhouse-01.png)](https://www.coderhouse.com/)
 
-### Demo: [AquilaStore](https://braianvaylet.github.io/coderhouse-react11360-bdv/)
+### Demo: [AquilaStore](https://braianvaylet.github.io/AquilaStore/)
 
 ### Documentation: [AquilaStore Doc](https://braianvaylet.github.io/AquilaStoreDoc/)
 
