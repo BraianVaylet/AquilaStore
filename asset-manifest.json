@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AquilaStore/static/css/main.9c097eef.chunk.css",
-    "main.js": "/AquilaStore/static/js/main.5b6c3564.chunk.js",
-    "main.js.map": "/AquilaStore/static/js/main.5b6c3564.chunk.js.map",
+    "main.js": "/AquilaStore/static/js/main.986ae185.chunk.js",
+    "main.js.map": "/AquilaStore/static/js/main.986ae185.chunk.js.map",
     "runtime-main.js": "/AquilaStore/static/js/runtime-main.33a705b7.js",
     "runtime-main.js.map": "/AquilaStore/static/js/runtime-main.33a705b7.js.map",
     "static/css/2.53e6dcdf.chunk.css": "/AquilaStore/static/css/2.53e6dcdf.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.53e6dcdf.chunk.css",
     "static/js/2.420167aa.chunk.js",
     "static/css/main.9c097eef.chunk.css",
-    "static/js/main.5b6c3564.chunk.js"
+    "static/js/main.986ae185.chunk.js"
   ]
 }
