@@ -34,7 +34,9 @@ const CustomModal = ({
     <ModalContent bgColor={color}>
       {withHeader && <ModalHeader>{header}</ModalHeader>}
       {withCloseBtn && <ModalCloseButton />}
-      <ModalBody>{children}</ModalBody>
+      <ModalBody w="100%" h="100%">
+        {children}
+      </ModalBody>
       {withFooter && <ModalFooter>{footer}</ModalFooter>}
     </ModalContent>
   </Modal>

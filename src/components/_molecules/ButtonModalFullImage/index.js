@@ -3,7 +3,7 @@ import { IoExpand } from "react-icons/io5"
 import { useTranslation } from "react-i18next"
 import Proptypes from "prop-types"
 // chakra-ui
-import { Box, Icon, IconButton, Portal, useDisclosure } from "@chakra-ui/react"
+import { Box, Icon, IconButton, useDisclosure } from "@chakra-ui/react"
 // styles
 import { addOpacityToColor } from "styles/utils"
 // hooks
@@ -51,26 +51,23 @@ const ButtonModalFullImage = ({ pictureName, pictureUrl, title }) => {
         />
       </CustomTooltip>
 
-      <Portal>
-        <CustomModal
-          isOpen={isOpen}
-          onClose={onClose}
-          size="full"
-          header={title}
-        >
+      {/* <Portal> */}
+      <CustomModal isOpen={isOpen} onClose={onClose} size="full" header={title}>
+        <Box w="100%" h="100%">
           <ImageBox
             name={pictureName}
             url={pictureUrl}
             size="contain"
             w="100%"
-            minW="100%"
+            minW="100vw"
             maxW="100%"
             h="100%"
-            minH="100%"
+            minH="100vh"
             maxH="100%"
           />
-        </CustomModal>
-      </Portal>
+        </Box>
+      </CustomModal>
+      {/* </Portal> */}
     </>
   )
 }
