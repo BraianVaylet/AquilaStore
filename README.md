@@ -4,15 +4,15 @@
 
 # 🦅 AQUILA STORE
 
+### **[VER DEMO](https://braianvaylet.github.io/AquilaStore/)**
+
+### **[VER DOCUMENTACION](https://braianvaylet.github.io/AquilaStoreDoc/)**
+
 ## _ECOMMERCE Project in ReactJs_ 💙
 
 This project was developed for the ReactJs course on the CoderHouse platform [![coderhouse](https://emprelatam.com/wp-content/uploads/2019/10/logos-coderhouse-01.png)](https://www.coderhouse.com/)
 
-### Demo: [AquilaStore](https://braianvaylet.github.io/AquilaStore/)
-
 [![aquila.jpg](https://i.postimg.cc/V6X0FRYB/aquila.jpg)](https://postimg.cc/5YNt48Q6)
-
-### Documentation: [AquilaStore Doc](https://braianvaylet.github.io/AquilaStoreDoc/)
 
 [![aquiladoc.jpg](https://i.postimg.cc/43DhtMTx/aquiladoc.jpg)](https://postimg.cc/CZ41pc13)
 
